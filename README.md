@@ -1,4 +1,3 @@
-# Frontend-Development-Practice
 
 # 🎨 Frontend Development Practice 🚀
 
